@@ -29,7 +29,7 @@
 - `0 1 2 3 4 5 6 7 8 9 10 11`
   
 - Reverse Indexing
-- `H  e  l l o   w o r l d  !`
-- `-7 -6 -5 -4 -3 -2 -1`
+- `  H   e   l  l  o     w  o  r  l  d  !`
+- `-12 -11 -10 -9 -8 -7 -6 -5 -4 -3 -2 -1`
 
 ### Let's have a look at some string methods
